@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./photo_2026-11-22_05-20-13.jpg" alt="FBHAO.COM 大喜哥出海工作室" width="100%">
+</p>
 # FBHAO-COM | 大喜哥出海工作室
 FBHAO.COM — 海外社交媒体资源与数字服务平台
 官方网站：https://fbhao.com
